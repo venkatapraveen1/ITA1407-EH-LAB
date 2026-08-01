@@ -1,0 +1,11 @@
+mkdir experiment7
+
+cd experiment7
+
+echo "ethical hacking lab">file1.txt
+
+pwd
+
+cp file1.txt file2.txt
+
+is
