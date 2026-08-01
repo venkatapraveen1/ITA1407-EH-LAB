@@ -1,0 +1,22 @@
+PWD
+
+makdir experiment2
+
+cd experiment2
+
+echo "this is line 1">sample.txt
+
+echo "this is line 2">>sample.txt
+
+echo "this is line 3">>sample.txt
+
+less sample.txt
+
+more sample.txt
+
+vi demo.txt
+
+:wq
+
+cat demo.txt
+
