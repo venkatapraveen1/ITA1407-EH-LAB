@@ -1,0 +1,13 @@
+mkdir experiment6
+
+cd experiment6
+
+touch demo.txt
+
+ls
+
+pwd
+
+wget http://example.com
+
+ls
