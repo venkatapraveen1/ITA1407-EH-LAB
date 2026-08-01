@@ -1,0 +1,15 @@
+mkdir experiment5
+
+cd experiment5
+
+uptime
+
+date
+
+echo"hello kali linux">file1.txt
+
+ls
+
+mv file1.txt file2.txt
+
+ls
