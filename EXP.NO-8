@@ -1,0 +1,9 @@
+nmap --version
+
+hostname -I
+
+nmap -sV 10.0.2.15
+
+sudo nmap -A 10.0.2.15
+
+sudo nmap -O 10.0.2.15
