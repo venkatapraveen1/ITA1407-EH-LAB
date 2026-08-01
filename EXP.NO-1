@@ -1,0 +1,7 @@
+ls
+
+touch example5.txt
+
+rm exmaple5.txt
+
+ls
