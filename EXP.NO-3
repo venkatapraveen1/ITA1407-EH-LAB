@@ -1,0 +1,22 @@
+mkdir experiment3
+
+cd experiment3
+
+echo "line 1" > sample.txt
+echo "line 2">>sample.txt
+echo "line 3">>sample.txt
+echo"line 4">>sample.txt
+echo"line 5">>sample.txt
+echo"line 6">>sample.txt
+echo"line 7">>sample.txt
+echo"line 8">>sample.txt
+echo"line 9">>sample.txt
+echo"line 10">>sample.txt
+echo"line 11">>sample.txt
+echo"line 12">>sample.txt
+
+tree
+
+head sample.txt
+
+tail sample.txt
