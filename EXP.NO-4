@@ -1,0 +1,13 @@
+mkdir experiment4
+
+cd experiment4
+
+echo "welcome to kali linux">file.txt
+
+ls
+
+cat file.txt
+
+mkdir demo
+
+ls
