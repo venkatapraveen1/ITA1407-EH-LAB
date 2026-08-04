@@ -1,0 +1,11 @@
+nmap --version
+
+hostname -I
+
+nmap 10.0.2.15
+
+nmap -p 22 10.0.2.15
+
+nmap -p 22,80,443 10.0.2.15
+
+nmap -F 10.0.2.15
