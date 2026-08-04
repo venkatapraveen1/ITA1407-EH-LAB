@@ -1,0 +1,21 @@
+mkdir Experiment11
+
+cd Experiment11
+
+free
+
+free -h
+
+echo "Mango" > fruits.txt
+
+echo "Apple" >> fruits.txt
+
+echo "Banana" >> fruits.txt
+
+echo "Orange" >> fruits.txt
+
+cat fruits.txt
+
+sort fruits.txt
+
+history
