@@ -1,0 +1,7 @@
+nmap --vesion
+
+hostname -I
+
+sudo nmap -T2 10.0.0.15
+
+sudo nmap -T3 10.0.0.15
