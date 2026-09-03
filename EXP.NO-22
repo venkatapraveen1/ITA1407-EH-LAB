@@ -1,0 +1,11 @@
+tshark --version
+
+tshark -D
+
+sudo tshark -i eth0
+
+sudo tshark -i eth0 -c 20
+
+sudo tshark -i eth0 -f 'icmp'
+
+ping YOUR-LAB-IP
