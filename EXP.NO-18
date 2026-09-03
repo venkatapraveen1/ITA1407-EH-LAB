@@ -1,0 +1,11 @@
+nikto -version
+
+sudo apt update
+
+sudo apt install nikto
+
+ip addr
+
+nikto -h
+
+cat nikto_result.txt
