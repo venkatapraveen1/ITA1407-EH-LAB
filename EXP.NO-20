@@ -1,0 +1,6 @@
+msfvenom --version
+
+echo "BOOST SECTOR VIRUS SIMULATION - HARMLESS LAB TEST">
+boot_sector_simulation.txt
+
+cat boot_sector_simulation.txt
