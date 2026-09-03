@@ -1,0 +1,9 @@
+time namp 192.168.56.101
+
+time nmap -T2 192.168.56.101
+
+time nmap -T3 192.168.56.101
+
+time nmap -t4 192.168.56.101
+
+time nmap -t5 192.168.56.101
