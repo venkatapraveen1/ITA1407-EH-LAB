@@ -1,0 +1,11 @@
+ipconfig
+
+ipconfig /all
+
+ping 192.168.56.101
+
+tracert 192.168.56.101
+
+netstat -ano
+
+netstat -an
