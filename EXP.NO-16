@@ -1,0 +1,10 @@
+ip addr
+
+sudo apt update
+
+sudo apt install whois
+
+whois example.com
+
+whois example.com>
+whois_result.txt
