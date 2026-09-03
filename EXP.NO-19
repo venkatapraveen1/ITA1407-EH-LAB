@@ -1,0 +1,13 @@
+ip addr
+
+wireshark
+
+ping 192.168.56.101
+
+icmp
+
+tcp
+
+http
+
+dns
